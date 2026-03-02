@@ -60,10 +60,10 @@ const resources = {
             },
             "brandStory": {
                 "philosophyTitle": "\"Water that has traveled for a thousand years.\"",
-                "philosophyBody1": "Deep in the East Sea, 1,032 meters below the surface, exists a purity untouched by modern civilization. Aeterno captures this pristine essence, preserved in high pressure and low temperature for centuries.",
-                "philosophyBody2": "It is not just water. It is history, science, and the purest form of hydration nature has to offer.",
-                "narration1": "When all the waters of the world compromised with pollution, AETERNO entered into deep silence. An abyss 1,032m deep where even light cannot reach. The water aged there for centuries is not just hydration. It is the most primordial life force that awakens your cells.",
-                "narration2": "We do not create water; we draw from the primordial depths.",
+                "philosophyBody1": "Sourced 1,032 meters below the surface of the East Sea, Aeterno offers deep sea water protected from modern environmental impact. Preserved by natural high pressure and cold temperatures for centuries, Aeterno delivers a unique mineral profile.",
+                "philosophyBody2": "Beyond standard refreshment, this is deep-sea hydration enriched by nature’s ancient mineral profile.",
+                "narration1": "In a world of increasing environmental challenges, AETERNO remains in profound silence. Sourced from an abyss 1,032m deep where light cannot reach, this water has been naturally preserved for centuries. It is more than just hydration; it is a pristine gift from the depths, delivering a unique mineral profile to refresh your body.",
+                "narration2": "We do not create water; we source it from the Earth's primordial depths.",
                 "ceoMessage": {
                     "title": "CEO’s Message",
                     "body": "AETERNO is not just water. It is pure depth refined by nature and validated by science.\n\nSourced from ultra-deep ocean waters over 1,000 meters below the surface, AETERNO is born in an environment untouched by modern pollution, naturally aged through time and darkness. We honor this depth and deliver it as the most reliable hydration for everyday life.\n\nGuided by nature, science, and trust, AETERNO will continue to set a new standard for premium hydration.\n\nThank you.",
