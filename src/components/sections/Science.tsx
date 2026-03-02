@@ -19,14 +19,14 @@ const stats = [
         value: "100",
         unit: "atm",
         label: "Pressure",
-        desc: "Matured under immense pressure, resulting in smaller water clusters for smooth absorption."
+        desc: "science.stats.pressure.desc"
     },
     {
         icon: Droplet,
         value: "3:1:1",
         unit: "Mg:Ca:K",
         label: "Balance",
-        desc: "The perfect mineral ratio similar to the human body's amniotic fluid."
+        desc: "science.stats.balance.desc"
     }
 ];
 

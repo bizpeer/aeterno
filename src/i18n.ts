@@ -24,6 +24,12 @@ const resources = {
                 "stats": {
                     "depth": {
                         "desc": "Sourced approximately 17.5 km offshore at a depth of 1,032 meters, where the water is naturally isolated from typical surface conditions."
+                    },
+                    "pressure": {
+                        "desc": "Shaped by the natural High hydrostatic pressur of the deep sea, maintaining its inherent mineral balance."
+                    },
+                    "balance": {
+                        "desc": "The perfect mineral ratio similar to the human body's amniotic fluid."
                     }
                 },
                 "table": {
@@ -200,6 +206,12 @@ const resources = {
                 "stats": {
                     "depth": {
                         "desc": "해안에서 약 17.5km, 수심 1,032m 지점에서 취수하여 표층 오염원으로부터 자연적으로 완전히 격리되어 있습니다."
+                    },
+                    "pressure": {
+                        "desc": "심해의 강력한 수압을 통해 형성되어, 본연의 미네랄 밸런스를 고스란히 유지하고 있습니다."
+                    },
+                    "balance": {
+                        "desc": "인체의 양수와 유사한 완벽한 미네랄 비율을 제공합니다."
                     }
                 },
                 "table": {
