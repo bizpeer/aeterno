@@ -12,7 +12,7 @@ const stats = [
         value: "1,032",
         unit: "m",
         label: "Depth",
-        desc: "Sourced from the deepest point in the East Sea, ensuring absolute isolation from surface pollutants."
+        desc: "science.stats.depth.desc"
     },
     {
         icon: Activity,
@@ -65,7 +65,7 @@ export function Science() {
                             #PureZone
                         </div>
                         <div className="bg-BRAND-teal/10 px-6 py-2 rounded-full text-BRAND-teal font-semibold text-sm">
-                            #AETERNO1000
+                            {t('science.hashtags.aeterno1032')}
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@ export function Science() {
                             </div>
                             <h3 className="text-xl font-bold mb-4">{stat.label}</h3>
                             <p className="text-gray-600 leading-relaxed text-sm">
-                                {stat.desc}
+                                {t(stat.desc)}
                             </p>
                         </motion.div>
                     ))}

@@ -18,6 +18,14 @@ const resources = {
                 "subtitle": "Where Time and Pressure Create Perfection",
                 "purity_depth1": "At depths of around 1,032 meters, ocean water exhibits stable temperature conditions, increased mineral presence, and minimal interaction with surface-origin influences.",
                 "purity_depth2": "AETERNO captures this naturally occurring mineral profile of Mg(3):Ca(1):K(1) at its source.",
+                "hashtags": {
+                    "aeterno1032": "#AETERNO1032"
+                },
+                "stats": {
+                    "depth": {
+                        "desc": "Sourced approximately 17.5 km offshore at a depth of 1,032 meters, where the water is naturally isolated from typical surface conditions."
+                    }
+                },
                 "table": {
                     "depth": "Depth",
                     "classification": "Classification",
@@ -186,6 +194,14 @@ const resources = {
                 "subtitle": "시간과 압력이 만들어낸 완벽함",
                 "purity_depth1": "수심 1,032m에서 해양심층수는 안정적인 저온 상태를 유지하며, 농축된 미네랄과 표층수로부터 완전히 격리된 순수성을 보여줍니다.",
                 "purity_depth2": "에테르노(AETERNO)는 마그네슘(3):칼슘(1):칼륨(1)의 천연 미네랄 밸런스를 취수원 그대로 담아냅니다.",
+                "hashtags": {
+                    "aeterno1032": "#AETERNO1032"
+                },
+                "stats": {
+                    "depth": {
+                        "desc": "해안에서 약 17.5km, 수심 1,032m 지점에서 취수하여 표층 오염원으로부터 자연적으로 완전히 격리되어 있습니다."
+                    }
+                },
                 "table": {
                     "depth": "Depth (깊이)",
                     "classification": "Classification (구분)",
