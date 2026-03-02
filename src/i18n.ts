@@ -29,7 +29,7 @@ const resources = {
                         "desc": "Shaped by the natural High hydrostatic pressur of the deep sea, maintaining its inherent mineral balance."
                     },
                     "balance": {
-                        "desc": "The perfect mineral ratio similar to the human body's amniotic fluid."
+                        "desc": "Featuring a naturally occurring mineral profile with a distinctive mineral ratio, sourced from deep ocean waters."
                     }
                 },
                 "table": {
@@ -211,7 +211,7 @@ const resources = {
                         "desc": "심해의 강력한 수압을 통해 형성되어, 본연의 미네랄 밸런스를 고스란히 유지하고 있습니다."
                     },
                     "balance": {
-                        "desc": "인체의 양수와 유사한 완벽한 미네랄 비율을 제공합니다."
+                        "desc": "심해의 기원으로부터 얻어진 독특한 미네랄 비율과 천연 미네랄 프로필을 특징으로 합니다."
                     }
                 },
                 "table": {
