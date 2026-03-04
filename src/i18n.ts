@@ -68,7 +68,7 @@ const resources = {
                 "desalination": "AETERNO is produced with precisely controlled hardness through desalination and mineral concentration technology.",
                 "intake": {
                     "title": "Ultra-Deep Intake",
-                    "desc": "Sourced from 1,032m depth, 17.5km offshore to ensure zero contamination."
+                    "desc": "The Gold Standard of Deep-Sea Water: World-Leading 17.5km Intake Infrastructure for Pristine Source Integrity."
                 },
                 "mineral": {
                     "title": "Mineral Balancing",
